@@ -4,4 +4,4 @@ Pada teknik ini, percobaan penanganan dilakukan dengan menambahkan delay pada fi
 
 Fix vuln by zal - RPLK
 
-Untuk memenuhi tugas Secure Programming
+Untuk memenuhi UTS Secure Programming
